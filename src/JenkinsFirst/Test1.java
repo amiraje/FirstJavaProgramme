@@ -6,7 +6,8 @@ public class Test1 {
 	{
 		
 		  System.out.println("Test1 test cases");  
-		  System.out.println("Test1 test cases 23");    
+		  System.out.println("Test1 test cases 23"); 
+		  System.out.println("Test1 test cases 23"); 
 	}
 
 }
