@@ -6,6 +6,7 @@ public class Sample {
 
   System.out.println("First Jekkins Project");
   System.out.println("First Jekkins Project 2nd day");
+  System.out.println("First Jekkins Project 2nd day");
 
 	}
 
